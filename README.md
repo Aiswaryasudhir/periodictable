@@ -1,0 +1,2 @@
+# periodictale
+This is a DSA project implemented on c language using linked lists and stacks.The purpose of this modern periodic table project is to build a program which helps the users to update the periodic table, to add elements to any position as well as to delete elements , it also helps the users to search for properties of elements based on atomic number and search the health effects of certain elements.
